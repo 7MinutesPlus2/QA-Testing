@@ -49,10 +49,10 @@ python gunsmith_commission.py
 
 รัน test ทั้งหมด:
 
-pytest
+`pytest`
 
 หรือรันแบบดูรายละเอียด:
 
-pytest -v
+`pytest -v`
 
 ---
